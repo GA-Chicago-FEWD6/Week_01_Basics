@@ -1,5 +1,7 @@
 ![GeneralAssemb.ly](https://github.com/generalassembly/ga-ruby-on-rails-for-devs/raw/master/images/ga.png "GeneralAssemb.ly")
 
+My change
+
 ##Week 1 - The Basics
 
 * Homework: [Finish building](Assignment/README.md) your "About" and "Portfolio" pages.  
