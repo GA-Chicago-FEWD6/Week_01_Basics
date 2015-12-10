@@ -1,0 +1,22 @@
+/* CSS has been connected through HTML*/
+#cookie {
+	border-style: solid;
+	border-color: black;
+}
+
+
+
+/* border does not look like the image but 
+could possible still be the correct way to code the assignment.
+
+body {
+	border-style: solid;
+	border-color: black;
+}
+*/
+
+
+html {
+	border-style: solid;
+	border-color: black;
+}
