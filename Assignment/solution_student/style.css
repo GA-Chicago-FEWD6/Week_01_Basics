@@ -1,0 +1,37 @@
+header {
+	text-align: center;
+}
+
+h1 {
+	font-size: 40px; 
+	text-transform: uppercase; 
+}
+
+h3 {
+	text-transform: uppercase;
+}
+
+body {
+	color: black;
+	font-family: sans-serif;
+    padding: 20px 0;
+    font-family: sans-serif;
+    border-bottom: 10px solid black;
+    border-top: 10px solid black;
+    margin-top: 30px;
+}
+
+#bio {
+	float: left;
+	width: 800px;
+	padding: 25px; 
+}
+
+#photo {
+	float: left;
+	border: 1px solid #000;
+}
+
+footer {
+	text-align: center;
+}
