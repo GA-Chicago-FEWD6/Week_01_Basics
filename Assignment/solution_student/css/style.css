@@ -1,0 +1,81 @@
+/*Global Styles*/
+
+body{
+	background-color:#F6F6F6;
+	padding: 75;
+	border-bottom: 5px solid #000;
+	border-top: 5px solid #000;
+	font-family: 'Lora', serif;
+}
+
+h1{
+	font-family: sans-serif;
+	font-size: 3em;
+	text-transform: uppercase;
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+}
+
+h2{
+	font-family: sans-serif;
+	font-size: 2em;
+	font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+	font-family: sans-serif;
+	font-size: 1.5em;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+p{
+	font-family: 'Lora', serif;
+	font-size: 1.25em;
+	line-height:125%;
+}
+
+a {
+    color: #000000;
+}
+
+a:active {
+    font-style: oblique;
+}
+
+ul{
+	list-style: square;
+	font-family: sans-serif; 
+	font-size: 1em;
+}
+
+em{
+	font-weight: bold;
+}
+
+img{
+	border-style: solid;
+	border-width: 1px;
+	padding: 5;
+}
+
+.nav1 ul{
+	text-align: center;
+	list-style: none;
+	font-weight: bold;
+	padding-top: 30;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.nav1 li{
+	display: inline-block;
+	font-weight: bold;
+	font-family: 'Montserrat', sans-serif;
+}	
+
+.img1{
+	float: right;
+	padding: 50;
+	font-family: 'Montserrat', sans-serif;
+}
