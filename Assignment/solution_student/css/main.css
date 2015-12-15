@@ -1,0 +1,52 @@
+body {
+	font-family: sans-serif;
+	background-color: #f6f6f6;
+}
+
+p {
+	font-family: serif;
+	width: 400px;
+}
+
+h1 {
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.navigation {
+	text-align: center;
+}
+
+.avatar {
+	float: right;
+	border-width: 1px 1px 1px 1px;
+	border-color: black;
+	border-style: solid;
+	margin: 10px 10px 10px 10px;
+	padding: 5px 5px 5px 5px;
+}
+
+ul  {
+    list-style-type: none;
+}
+
+li {
+	display: inline;
+}
+
+.social {
+	text-align: center;
+	font-weight: bold;
+}
+
+a {
+	color: black;
+}
+
+.relaxrpic {
+	border-width: 1px 1px 1px 1px;
+	border-color: black;
+	border-style: solid;
+	margin: 10px 10px 10px 10px;
+	padding: 5px 5px 5px 5px;
+}
